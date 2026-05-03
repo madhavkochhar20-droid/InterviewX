@@ -48,7 +48,7 @@ function Auth({isModel = false}) {
                     <BsRobot size={18}/>
 
                 </div>
-                <h2 className='font-semibold text-lg'>InterviewAI</h2>
+                <h2 className='font-semibold text-lg'>InterviewX</h2>
             </div>
 
             <h1 className='text-2xl md:text-3xl font-semibold text-center leading-snug mb-4'>
